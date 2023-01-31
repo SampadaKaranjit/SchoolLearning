@@ -17,8 +17,5 @@ The application is developed using frontend framework ReactJS and state manageme
 This project assumes node is installed
 
 ```
-git clone https://github.com/SampadaKaranjit/SnappetChallenge.git
-checkout features/display-daily-overview-and-student-performance branch
-cd snappetchallenge
 npm install && npm start
 ```
