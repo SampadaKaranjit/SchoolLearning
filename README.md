@@ -12,7 +12,7 @@ The application is developed using frontend framework ReactJS and state manageme
 2. Display a tabular view of learning objective filterable by Subject and Domain
 3. Display simple bar chart demonstrating correct and wrong responses
 
-### Install
+### Install & Run
 
 This project assumes node is installed
 
